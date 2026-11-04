@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+sh01,Golden Room,pack-local equal-tempered pitch collection,D,122,4/4,480,32,61440,midi/sh01-golden-room/sh01-golden-room-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+sh02,Warm Steps,pack-local equal-tempered pitch collection,F,122,4/4,480,32,61440,midi/sh02-warm-steps/sh02-warm-steps-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+sh03,Open Hands,pack-local equal-tempered pitch collection,G#,122,4/4,480,32,61440,midi/sh03-open-hands/sh03-open-hands-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+sh04,Sun Return,pack-local equal-tempered pitch collection,D#,122,4/4,480,32,61440,midi/sh04-sun-return/sh04-sun-return-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums

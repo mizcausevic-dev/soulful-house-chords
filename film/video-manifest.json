@@ -1,0 +1,15 @@
+{
+  "source_audio": "preview/soulful-house-chords-simple-synth-preview.mp3",
+  "source_audio_sha256": "0a3a6521083a4c38acc773a0ece255ca0962c8831a0f00704d09a755482c8321",
+  "excerpt_start_seconds": 0,
+  "excerpt_duration_seconds": 18,
+  "video": "film/preview.mp4",
+  "video_sha256": "6840510cb9cab1560ac89fff407261adc10ecc6e7b41bc008e0b8bcb3e813d50",
+  "duration_seconds": 18.0,
+  "video_codec": "H.264",
+  "audio_codec": "AAC",
+  "caption": "film/preview.vtt",
+  "poster": "film/poster.jpg",
+  "disclosure": "preview, not master",
+  "note": "A static illustrated poster and audio excerpt; no recording-session claim."
+}
