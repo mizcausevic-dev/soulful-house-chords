@@ -1,0 +1,26 @@
+{
+  "title": "Soulful House Chords",
+  "study": "sh01",
+  "bpm": 122,
+  "source_audio": "preview/soulful-house-chords-simple-synth-preview.mp3",
+  "source_audio_sha256": "0a3a6521083a4c38acc773a0ece255ca0962c8831a0f00704d09a755482c8321",
+  "source_midi": "midi/sh01-golden-room/sh01-golden-room-combined.mid",
+  "source_midi_sha256": "5085059c8dc6900ab4ab4a973a559575edcf3887efc99fc65b2843c16a5dbbf6",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "090fd64248fc0c4015f069a2447432266801a02083810372c8efccee4767c048",
+  "art_source_file": "film/motion-artwork.jpg",
+  "art_source_sha256": "2d877fb9916bea87078a3429c67c097f755991552c4a15aa29b910b85788ba50",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/motion-preview.mp4",
+  "video_sha256": "3e8939522b86e8a1c405206b63d941f12a9758b49785c2cf0807ecd88a413ea3",
+  "caption": "film/motion-preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
