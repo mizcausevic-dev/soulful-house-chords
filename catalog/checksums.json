@@ -7,16 +7,6 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
-      "path": "MOTION-PREVIEW.md",
-      "bytes": 790,
-      "sha256": "70a2839c2985a2b32e4a185018caf9c2575802ab3f3dd00671704a88fede5404"
-    },
-    {
-      "path": "README.md",
-      "bytes": 3882,
-      "sha256": "c37ec6ba2612f97a34e99384eb05936ee97f2d9ec00aab25ba6f620f1381d3dd"
-    },
-    {
       "path": "art/cover-provenance.json",
       "bytes": 266,
       "sha256": "66ad99479f0e69c75988741a5ab6b86f1a4b18aa17a18129f7eb323ba8e55a39"
@@ -73,8 +63,8 @@
     },
     {
       "path": "catalog/note-events.csv",
-      "bytes": 106652,
-      "sha256": "090fd64248fc0c4015f069a2447432266801a02083810372c8efccee4767c048"
+      "bytes": 105575,
+      "sha256": "9c3c28ef470204c11757d9bf7bfdab683b858adee4871ca787bda6a0c4595518"
     },
     {
       "path": "catalog/patch-recipes.json",
@@ -99,7 +89,7 @@
     {
       "path": "checks/build-metadata.json",
       "bytes": 379,
-      "sha256": "8eb12ee13f3ece8d3c9bc5d5bdf356de25e74662c7e5820652004050ab49c4e3"
+      "sha256": "4d6293861bbdfa06b4d42c8bb127d5e0df018c4560d5fcd423ae50235e2bd276"
     },
     {
       "path": "checks/clip-validation.json",
@@ -113,8 +103,8 @@
     },
     {
       "path": "checks/media-validation.json",
-      "bytes": 391,
-      "sha256": "bd3f91aacd0ed2257269a7df925b5c05b5bf54e4bfc62a2da2f566800817ebf5"
+      "bytes": 462,
+      "sha256": "a38ce5abc6328741f322e9c64cb0b692f1877c6c69b6811e7a77f4d662e7a018"
     },
     {
       "path": "clips/sh01-chord-progression-01.mid",
@@ -203,38 +193,18 @@
     },
     {
       "path": "downloads/soulful-house-chords-midi.zip",
-      "bytes": 30118,
-      "sha256": "a7a29918e866274eb6d01341e8c25f73ea73383cec8946c7d1c910b018e1d57c"
-    },
-    {
-      "path": "film/motion-artwork.jpg",
-      "bytes": 235895,
-      "sha256": "2d877fb9916bea87078a3429c67c097f755991552c4a15aa29b910b85788ba50"
-    },
-    {
-      "path": "film/motion-manifest.json",
-      "bytes": 1202,
-      "sha256": "dc7d21a5802d08670cfd9e6b999dc5877f02d9fa79547edf8dba6bc402e3023a"
+      "bytes": 31337,
+      "sha256": "64ae04780d6ee369cf39de6c09f851e23ab52c567f8c47eb9de61bc06e16cb97"
     },
     {
       "path": "film/motion-note-roll.png",
-      "bytes": 2690,
-      "sha256": "1c33ebedb24942803017900ed8bfeda360c14c82e8c2f33c98c035ef08b9dcf3"
+      "bytes": 2707,
+      "sha256": "4ad5ce3a1df6d770f72ce078242a7ec49917ebccd999011dd4f59eea8b4bb90d"
     },
     {
       "path": "film/motion-overlay.png",
       "bytes": 32922,
       "sha256": "e46beb90d8d1e3f0c6a3b64cf2e025bf110d0b933d485d57e921c9b32b8e24ce"
-    },
-    {
-      "path": "film/motion-preview.mp4",
-      "bytes": 974902,
-      "sha256": "3e8939522b86e8a1c405206b63d941f12a9758b49785c2cf0807ecd88a413ea3"
-    },
-    {
-      "path": "film/motion-preview.vtt",
-      "bytes": 86,
-      "sha256": "66a3a5d04904c48ceef8c1eb6e0698d44a7ec9f80950e2cc21b7dc0f54c12fea"
     },
     {
       "path": "film/poster.jpg",
@@ -243,23 +213,23 @@
     },
     {
       "path": "film/preview.mp4",
-      "bytes": 2112779,
-      "sha256": "6840510cb9cab1560ac89fff407261adc10ecc6e7b41bc008e0b8bcb3e813d50"
+      "bytes": 954019,
+      "sha256": "d8344d0ea5811c6bdb5c5eddc9866753d06fc07786a67d9fab3981494a665ca9"
     },
     {
       "path": "film/preview.vtt",
-      "bytes": 87,
-      "sha256": "e420e1dfed936dcf8e448a769c4aea94719e81a1f226cffc7fcdaa1ddb4496f4"
+      "bytes": 86,
+      "sha256": "66a3a5d04904c48ceef8c1eb6e0698d44a7ec9f80950e2cc21b7dc0f54c12fea"
     },
     {
       "path": "film/video-manifest.json",
-      "bytes": 621,
-      "sha256": "cc0c116a5a9a944c8037d650d8fd64f529327df93da3ab85b944c5eead4e8f61"
+      "bytes": 1203,
+      "sha256": "fc5bf62782db593cfe290ef1ffe8eaaa055f8fd89af9bc53c46e15fbb96f34f7"
     },
     {
       "path": "index.html",
-      "bytes": 9472,
-      "sha256": "634f712adcc4c0c844b8f9b6119cedb4821906fb1a592dac30a5bf1480e769b8"
+      "bytes": 10486,
+      "sha256": "1f1e3ee68bb3d4c2c1af4d35480b317fc8002350826fa90737bb6d94dfc313a9"
     },
     {
       "path": "midi/sh01-golden-room/chord_pulse.mid",
@@ -278,13 +248,13 @@
     },
     {
       "path": "midi/sh01-golden-room/principal_motif.mid",
-      "bytes": 730,
-      "sha256": "8176a93c99d73226627116cd3c444f677206df26a58af2f5e8a0f27166aa877c"
+      "bytes": 660,
+      "sha256": "1e874e4455e6a5a6a925cddf4e821fb63ea592de4472ac952d9fb1d4a3225b4a"
     },
     {
       "path": "midi/sh01-golden-room/sh01-golden-room-combined.mid",
-      "bytes": 6518,
-      "sha256": "5085059c8dc6900ab4ab4a973a559575edcf3887efc99fc65b2843c16a5dbbf6"
+      "bytes": 6448,
+      "sha256": "224edfcb44a0ad7653b34f6026b5581b46770edfaed2ac34a53363e130051e44"
     },
     {
       "path": "midi/sh01-golden-room/sub_bass.mid",
@@ -313,13 +283,13 @@
     },
     {
       "path": "midi/sh02-warm-steps/principal_motif.mid",
-      "bytes": 730,
-      "sha256": "627242087e133954585c20481d67ba2db2eb6126fd36dc9875251fe60681abae"
+      "bytes": 661,
+      "sha256": "9db9977f593df2f58596d84ab60aef8d71871a9efe5a04a9de6ac2914238eab4"
     },
     {
       "path": "midi/sh02-warm-steps/sh02-warm-steps-combined.mid",
-      "bytes": 6518,
-      "sha256": "e55d9f5027d71b1a90cb6cf3f5354c4aa59aa78467dfb0e5c2668a0a7756b18d"
+      "bytes": 6449,
+      "sha256": "054ca371d8910aed35617f0a7d6994b041d4028b4d4f1c1be917330d77b1d174"
     },
     {
       "path": "midi/sh02-warm-steps/sub_bass.mid",
@@ -348,13 +318,13 @@
     },
     {
       "path": "midi/sh03-open-hands/principal_motif.mid",
-      "bytes": 710,
-      "sha256": "1f3d18ba840f95189134a3b3248c70b66e5dfbf0cb0f14e38616cfeaeafbe9b7"
+      "bytes": 661,
+      "sha256": "48fa14dc71582f04de7d68b337ddde783128cd37c8f5441babca4b6beb7fc25e"
     },
     {
       "path": "midi/sh03-open-hands/sh03-open-hands-combined.mid",
-      "bytes": 6498,
-      "sha256": "5c8c00b5cef059a0a12f72459b952c68e59f7bc1694dfef679b59962e7796fa4"
+      "bytes": 6449,
+      "sha256": "532883197fc7128243ddb87a474b3fd93704df4120c9eb84395e7cf5cc0e8652"
     },
     {
       "path": "midi/sh03-open-hands/sub_bass.mid",
@@ -383,13 +353,13 @@
     },
     {
       "path": "midi/sh04-sun-return/principal_motif.mid",
-      "bytes": 710,
-      "sha256": "f4d41994d0819ae9625cd5bfdf86057d647942d408b526513949d1e62c31f02b"
+      "bytes": 660,
+      "sha256": "bb3c119f0ad6f5c81aa6323c9af18b5a23a269e73334ab05de93749d2a642cf4"
     },
     {
       "path": "midi/sh04-sun-return/sh04-sun-return-combined.mid",
-      "bytes": 6498,
-      "sha256": "c56aeb97a7336218676e94a67c33b24670add607c7f73ed144773feab56e7581"
+      "bytes": 6448,
+      "sha256": "f05784bac6a282da84a3e5a6a48ea9bba3a410379ee376f2adb3f122d0a8a8f7"
     },
     {
       "path": "midi/sh04-sun-return/sub_bass.mid",
@@ -402,14 +372,29 @@
       "sha256": "2a9a55ee40e0481dad2d7c6ee0d5b95d58dc50fcd677ded69defc45dddc2d6da"
     },
     {
+      "path": "MOTION-PREVIEW.md",
+      "bytes": 790,
+      "sha256": "70a2839c2985a2b32e4a185018caf9c2575802ab3f3dd00671704a88fede5404"
+    },
+    {
       "path": "preview/preview-manifest.json",
       "bytes": 1133,
-      "sha256": "c71c0cf90bd254f2de087629b4d3c736d33ceee022ad3999a8f89e1114fb4e3a"
+      "sha256": "d54ac0182a032446f729626b7bfce457dda75b3091018b521e0637e9088e61f1"
     },
     {
       "path": "preview/soulful-house-chords-simple-synth-preview.mp3",
       "bytes": 1524132,
-      "sha256": "0a3a6521083a4c38acc773a0ece255ca0962c8831a0f00704d09a755482c8321"
+      "sha256": "ffcc8a302b82e189b8cacf5e53fc31d22835ba95ed7b5baacbe3586118db6d09"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4113,
+      "sha256": "8cb2350b34f93e812bf51a1e06c8bc9514a1cff766be1cc0dcb26004b407f50f"
+    },
+    {
+      "path": "REVISION.md",
+      "bytes": 790,
+      "sha256": "203f31d38636cffa204d1907a606e56edb19118c60770be54abfcdae4465aeba"
     },
     {
       "path": "social/instagram/caption.txt",
@@ -443,8 +428,8 @@
     },
     {
       "path": "tools/build_release.py",
-      "bytes": 72563,
-      "sha256": "2feaaa425b6e802acb6c959330658685bbf435d4d5995d0abd809c89c3d8b9db"
+      "bytes": 73003,
+      "sha256": "d435a96a037aba89ad7d92098da84ce9cd31add4d0d10a86aaef2626c80714a3"
     },
     {
       "path": "tools/polish_release.py",

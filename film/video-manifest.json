@@ -1,15 +1,26 @@
 {
+  "title": "Soulful House Chords",
+  "study": "sh01",
+  "bpm": 122,
   "source_audio": "preview/soulful-house-chords-simple-synth-preview.mp3",
-  "source_audio_sha256": "0a3a6521083a4c38acc773a0ece255ca0962c8831a0f00704d09a755482c8321",
+  "source_audio_sha256": "ffcc8a302b82e189b8cacf5e53fc31d22835ba95ed7b5baacbe3586118db6d09",
+  "source_midi": "midi/sh01-golden-room/sh01-golden-room-combined.mid",
+  "source_midi_sha256": "224edfcb44a0ad7653b34f6026b5581b46770edfaed2ac34a53363e130051e44",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "9c3c28ef470204c11757d9bf7bfdab683b858adee4871ca787bda6a0c4595518",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "2d877fb9916bea87078a3429c67c097f755991552c4a15aa29b910b85788ba50",
   "excerpt_start_seconds": 0,
-  "excerpt_duration_seconds": 18,
-  "video": "film/preview.mp4",
-  "video_sha256": "6840510cb9cab1560ac89fff407261adc10ecc6e7b41bc008e0b8bcb3e813d50",
   "duration_seconds": 18.0,
-  "video_codec": "H.264",
-  "audio_codec": "AAC",
+  "video": "film/preview.mp4",
+  "video_sha256": "d8344d0ea5811c6bdb5c5eddc9866753d06fc07786a67d9fab3981494a665ca9",
   "caption": "film/preview.vtt",
-  "poster": "film/poster.jpg",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
   "disclosure": "preview, not master",
-  "note": "A static illustrated poster and audio excerpt; no recording-session claim."
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
 }

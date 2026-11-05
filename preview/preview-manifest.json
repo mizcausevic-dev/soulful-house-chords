@@ -1,9 +1,9 @@
 {
   "label": "preview, not a master.",
   "preview_path": "preview/soulful-house-chords-simple-synth-preview.mp3",
-  "preview_sha256": "0a3a6521083a4c38acc773a0ece255ca0962c8831a0f00704d09a755482c8321",
+  "preview_sha256": "ffcc8a302b82e189b8cacf5e53fc31d22835ba95ed7b5baacbe3586118db6d09",
   "source_midi_path": "midi/sh01-golden-room/sh01-golden-room-combined.mid",
-  "source_midi_sha256": "5085059c8dc6900ab4ab4a973a559575edcf3887efc99fc65b2843c16a5dbbf6",
+  "source_midi_sha256": "224edfcb44a0ad7653b34f6026b5581b46770edfaed2ac34a53363e130051e44",
   "renderer": "release-simple-synth 1.0.0",
   "renderer_configuration": {
     "sample_rate": 44100,
@@ -23,7 +23,7 @@
     "end_seconds": 62.951
   },
   "measurement": {
-    "sample_peak": 0.117411,
+    "sample_peak": 0.130159,
     "not_lufs_or_true_peak": true
   },
   "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."

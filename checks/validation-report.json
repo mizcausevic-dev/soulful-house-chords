@@ -1,6 +1,6 @@
 {
   "status": "PASS",
-  "run_time_utc": "2026-11-04T23:37:27.794276+00:00",
+  "run_time_utc": "2026-11-05T23:17:07.585187+00:00",
   "tool": "validate_release.py with Python 3.14.0",
   "files_checked": 28,
   "errors": [],
@@ -26,14 +26,14 @@
     },
     {
       "path": "midi/sh01-golden-room/principal_motif.mid",
-      "bytes": 730,
-      "sha256": "8176a93c99d73226627116cd3c444f677206df26a58af2f5e8a0f27166aa877c",
+      "bytes": 660,
+      "sha256": "1e874e4455e6a5a6a925cddf4e821fb63ea592de4472ac952d9fb1d4a3225b4a",
       "errors": []
     },
     {
       "path": "midi/sh01-golden-room/sh01-golden-room-combined.mid",
-      "bytes": 6518,
-      "sha256": "5085059c8dc6900ab4ab4a973a559575edcf3887efc99fc65b2843c16a5dbbf6",
+      "bytes": 6448,
+      "sha256": "224edfcb44a0ad7653b34f6026b5581b46770edfaed2ac34a53363e130051e44",
       "errors": []
     },
     {
@@ -68,14 +68,14 @@
     },
     {
       "path": "midi/sh02-warm-steps/principal_motif.mid",
-      "bytes": 730,
-      "sha256": "627242087e133954585c20481d67ba2db2eb6126fd36dc9875251fe60681abae",
+      "bytes": 661,
+      "sha256": "9db9977f593df2f58596d84ab60aef8d71871a9efe5a04a9de6ac2914238eab4",
       "errors": []
     },
     {
       "path": "midi/sh02-warm-steps/sh02-warm-steps-combined.mid",
-      "bytes": 6518,
-      "sha256": "e55d9f5027d71b1a90cb6cf3f5354c4aa59aa78467dfb0e5c2668a0a7756b18d",
+      "bytes": 6449,
+      "sha256": "054ca371d8910aed35617f0a7d6994b041d4028b4d4f1c1be917330d77b1d174",
       "errors": []
     },
     {
@@ -110,14 +110,14 @@
     },
     {
       "path": "midi/sh03-open-hands/principal_motif.mid",
-      "bytes": 710,
-      "sha256": "1f3d18ba840f95189134a3b3248c70b66e5dfbf0cb0f14e38616cfeaeafbe9b7",
+      "bytes": 661,
+      "sha256": "48fa14dc71582f04de7d68b337ddde783128cd37c8f5441babca4b6beb7fc25e",
       "errors": []
     },
     {
       "path": "midi/sh03-open-hands/sh03-open-hands-combined.mid",
-      "bytes": 6498,
-      "sha256": "5c8c00b5cef059a0a12f72459b952c68e59f7bc1694dfef679b59962e7796fa4",
+      "bytes": 6449,
+      "sha256": "532883197fc7128243ddb87a474b3fd93704df4120c9eb84395e7cf5cc0e8652",
       "errors": []
     },
     {
@@ -152,14 +152,14 @@
     },
     {
       "path": "midi/sh04-sun-return/principal_motif.mid",
-      "bytes": 710,
-      "sha256": "f4d41994d0819ae9625cd5bfdf86057d647942d408b526513949d1e62c31f02b",
+      "bytes": 660,
+      "sha256": "bb3c119f0ad6f5c81aa6323c9af18b5a23a269e73334ab05de93749d2a642cf4",
       "errors": []
     },
     {
       "path": "midi/sh04-sun-return/sh04-sun-return-combined.mid",
-      "bytes": 6498,
-      "sha256": "c56aeb97a7336218676e94a67c33b24670add607c7f73ed144773feab56e7581",
+      "bytes": 6448,
+      "sha256": "f05784bac6a282da84a3e5a6a48ea9bba3a410379ee376f2adb3f122d0a8a8f7",
       "errors": []
     },
     {
