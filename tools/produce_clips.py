@@ -75,6 +75,22 @@ def main():
                             if kind == "sub_bass" and study_index and local // release.BAR_TICKS == study_index and local % release.BAR_TICKS == 0:
                                 continue
                             notes.append((local, min(event["duration"], END-local), event["pitch"], event["velocity"]))
+                if kind == "chords" and args.pack == 'soulful-house-chords':
+                    # Revoice the original chord events; preserve attacks, lengths and pitch classes.
+                    groups = {}
+                    for event in notes:
+                        groups.setdefault(event[0], []).append(event)
+                    notes = []
+                    for onset, chord in sorted(groups.items()):
+                        chord.sort(key=lambda e: e[2])
+                        for rank, (start, length, pitch, velocity) in enumerate(chord):
+                            if study_index == 1 and rank == 0:
+                                pitch += 12
+                            elif study_index == 2 and rank == 0:
+                                pitch -= 12
+                            elif study_index == 3 and rank == 1:
+                                pitch += 12
+                            notes.append((start, length, pitch, velocity))
                 if not notes:
                     raise ValueError(f"Empty clip: {study['id']} {kind} {variation}")
                 label = "chord-progression" if kind == "chords" else ("bass-hook" if kind == "sub_bass" else "melody")

@@ -49,7 +49,7 @@
     {
       "path": "catalog/clip-index.csv",
       "bytes": 2172,
-      "sha256": "d684ec729a9bb3a229c9cce88b905aea283716dcec152f1b3bd1689014662328"
+      "sha256": "14c8c4ccc9e4143ddbfec7c9df17456091f4e09afe72c991be181dd19099af36"
     },
     {
       "path": "catalog/drum-map.csv",
@@ -129,62 +129,62 @@
     {
       "path": "clips/sh02-chord-progression-01.mid",
       "bytes": 174,
-      "sha256": "81814234878b80d185031b4262dad956c02554386aba2c14b862c4b3a828c98a"
+      "sha256": "17f585d6c5af532164615899da9cdafb5f6ee3e842139793ea45eb71c6b874b1"
     },
     {
       "path": "clips/sh02-chord-progression-02.mid",
       "bytes": 174,
-      "sha256": "d486b1dfdacaff1f7fb3cd4e48a0031a4ca9ecd5eee6986e6c5525c07be8f12b"
+      "sha256": "d054d67e3b04c3496e161f24b063248cd8982f56bf82a1f93150e94a0499f382"
     },
     {
       "path": "clips/sh02-chord-progression-03.mid",
       "bytes": 174,
-      "sha256": "612656a0992599f14d1623ae8b778c13aec8001dd238212da2afdfbe12db3ccb"
+      "sha256": "9b489c5abdeb5ece2af6aade630e24a3f15eb9e2402629906b9b7f5318eb32e4"
     },
     {
       "path": "clips/sh02-chord-progression-04.mid",
       "bytes": 174,
-      "sha256": "4fb0c6b60188facae5d8a9a726799523297845f3422fb2d81ea514341122b86b"
+      "sha256": "e9a0aa40f824417967bcc3cae3760720747bc44759d20e694fec5642ba4424a9"
     },
     {
       "path": "clips/sh03-chord-progression-01.mid",
       "bytes": 174,
-      "sha256": "50d9c80f674308a18eb285ee1bea01e459db515b76c76b879e6b7796ae71275d"
+      "sha256": "5d98b185e533b69bf1aa12a395b1b661d3845ca53ed7a33dde33b144a0937ba7"
     },
     {
       "path": "clips/sh03-chord-progression-02.mid",
       "bytes": 174,
-      "sha256": "e26ba1014b2634cc21ec15692665403e885653ae9fdc59d062a9d2dbeb0ecf22"
+      "sha256": "5710068238146f65037cdfef7e345a84b56c32f9e9d19236d1197ec689d41d2b"
     },
     {
       "path": "clips/sh03-chord-progression-03.mid",
       "bytes": 174,
-      "sha256": "266ac0df7cf996d50c105eddabcac606f5ce27bbecf219e411d47a6f61e0a91b"
+      "sha256": "fbd9a83d0c3281045017dc331557063b5eb9858f5cba12e9ff9dc87244fc2e5e"
     },
     {
       "path": "clips/sh03-chord-progression-04.mid",
       "bytes": 174,
-      "sha256": "3defd35be13fbb36d5905a1ea4d7c9326b43fabc72f824c56c58275c1402c416"
+      "sha256": "cb999c3fbcbaad7fe4a30bceb00dd59bd07ec5d874e9f6d4e085dc26b313c493"
     },
     {
       "path": "clips/sh04-chord-progression-01.mid",
       "bytes": 174,
-      "sha256": "47733bb923c124e05e3334c9a0db3cbe46f7bcf7ae3774e4d3adf845000abd0b"
+      "sha256": "de27f68830de8fc0cbd59306eb4121a5d44bdb34f62feaa7f06b0f9fefbe289d"
     },
     {
       "path": "clips/sh04-chord-progression-02.mid",
       "bytes": 174,
-      "sha256": "cafd84b4f5873b976b59ca66e9c380d9cf52182738d20e8255b952bee323c0bd"
+      "sha256": "11ff1ec53d953cdfdc160cbfd96edcedc0c5fc5e12dc798845de3b0896b7666b"
     },
     {
       "path": "clips/sh04-chord-progression-03.mid",
       "bytes": 174,
-      "sha256": "d2f484d1b1cae8beb349def9b74a15a12d6a73af8498f39271c3802e530b1301"
+      "sha256": "2b635c6d08884e25ef4b858df237d626c926acdd00dcab876de5652b5d580c20"
     },
     {
       "path": "clips/sh04-chord-progression-04.mid",
       "bytes": 174,
-      "sha256": "e8076845879c2d48c97c6a7f158a4a68cc4eb3ee09a8bc38d93cbe0fc8c7576d"
+      "sha256": "0bc8fb5c64c03baf00b0ddda5531f778f34413dd322581232a0cde6c59e93856"
     },
     {
       "path": "delivery.md",
@@ -193,8 +193,18 @@
     },
     {
       "path": "downloads/soulful-house-chords-midi.zip",
-      "bytes": 31337,
-      "sha256": "64ae04780d6ee369cf39de6c09f851e23ab52c567f8c47eb9de61bc06e16cb97"
+      "bytes": 32645,
+      "sha256": "68249c881b32e511df275a0787bbfd6277cfaebc71b077cf1b5bf0be074e7a59"
+    },
+    {
+      "path": "film/motion-artwork.jpg",
+      "bytes": 235895,
+      "sha256": "2d877fb9916bea87078a3429c67c097f755991552c4a15aa29b910b85788ba50"
+    },
+    {
+      "path": "film/motion-manifest.json",
+      "bytes": 1202,
+      "sha256": "dc7d21a5802d08670cfd9e6b999dc5877f02d9fa79547edf8dba6bc402e3023a"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -205,6 +215,11 @@
       "path": "film/motion-overlay.png",
       "bytes": 32922,
       "sha256": "e46beb90d8d1e3f0c6a3b64cf2e025bf110d0b933d485d57e921c9b32b8e24ce"
+    },
+    {
+      "path": "film/motion-preview.vtt",
+      "bytes": 86,
+      "sha256": "66a3a5d04904c48ceef8c1eb6e0698d44a7ec9f80950e2cc21b7dc0f54c12fea"
     },
     {
       "path": "film/poster.jpg",
@@ -228,8 +243,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 10486,
-      "sha256": "1f1e3ee68bb3d4c2c1af4d35480b317fc8002350826fa90737bb6d94dfc313a9"
+      "bytes": 10719,
+      "sha256": "63dfb77abbaa7e199f33da5a1048d40ab28d4a7ac723755d6d198949ba5ef26e"
     },
     {
       "path": "midi/sh01-golden-room/chord_pulse.mid",
@@ -388,13 +403,13 @@
     },
     {
       "path": "README.md",
-      "bytes": 4113,
-      "sha256": "8cb2350b34f93e812bf51a1e06c8bc9514a1cff766be1cc0dcb26004b407f50f"
+      "bytes": 4271,
+      "sha256": "deda770f4d74a30999f5f3334b9beab4675b16263197cc18ff0df04375c3de9e"
     },
     {
       "path": "REVISION.md",
-      "bytes": 790,
-      "sha256": "203f31d38636cffa204d1907a606e56edb19118c60770be54abfcdae4465aeba"
+      "bytes": 1121,
+      "sha256": "87bcb3dab7a666c59bf228fd8fe62e2da32e99ef1f04e153e668f9654f0c93d0"
     },
     {
       "path": "social/instagram/caption.txt",
@@ -438,8 +453,8 @@
     },
     {
       "path": "tools/produce_clips.py",
-      "bytes": 6758,
-      "sha256": "17f1280e0d2c6b083ac402950e3350e63dfa45d0d36c8be13e968a222f80860f"
+      "bytes": 7717,
+      "sha256": "eab7709a7092acb4fb65ece3eb6bbeaaf42f235d5493d4fd0db623a506d1b79b"
     },
     {
       "path": "tools/render_motion_preview.py",

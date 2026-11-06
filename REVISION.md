@@ -5,3 +5,7 @@ The four principal melody parts were rewritten after a catalog comparison found 
 The revised files passed the included technical validation. A bounded comparison found no exact event match between this revision’s principal melody files or focused clips and the compared files in the other catalog releases. This does not establish musical quality, exhaustive originality clearance, or a human listening review.
 
 The original `v1.0.0` tag is unchanged and points to the earlier release. The updated archive on the current product page contains this revision.
+
+## Chord clip revision
+
+The focused chord clips use study-specific voicings of their existing chord tones and rhythms after pitch-normalized comparison found related progressions across studies. Full studies and previews are unchanged. Technical checks do not establish musical quality, listening review, or rights clearance.
