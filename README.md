@@ -65,3 +65,7 @@ The current product page and archive include revised principal melodies. The ori
 ## Chord clip revision
 
 The current archive includes revoiced four-bar chord clips. Full studies and previews are unchanged. See [REVISION.md](REVISION.md).
+
+## MIDI buyer license
+
+See [MIDI Buyer License v1.0](MIDI-BUYER-LICENSE-v1.0.txt), included in the MIDI download.

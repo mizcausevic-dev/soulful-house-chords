@@ -193,8 +193,8 @@
     },
     {
       "path": "downloads/soulful-house-chords-midi.zip",
-      "bytes": 32645,
-      "sha256": "68249c881b32e511df275a0787bbfd6277cfaebc71b077cf1b5bf0be074e7a59"
+      "bytes": 33632,
+      "sha256": "53bc774fc59fb2d1fbb4f473ca3f7010ec07f18bfbed51b58dddfdef17722b3a"
     },
     {
       "path": "film/motion-artwork.jpg",
@@ -243,8 +243,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 10719,
-      "sha256": "63dfb77abbaa7e199f33da5a1048d40ab28d4a7ac723755d6d198949ba5ef26e"
+      "bytes": 10909,
+      "sha256": "1217da26e07f42a1f0ff3a6f41915f4aeeaee6b7de6f07b39d90a216e8ad0006"
     },
     {
       "path": "midi/sh01-golden-room/chord_pulse.mid",
@@ -387,6 +387,11 @@
       "sha256": "2a9a55ee40e0481dad2d7c6ee0d5b95d58dc50fcd677ded69defc45dddc2d6da"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "MOTION-PREVIEW.md",
       "bytes": 790,
       "sha256": "70a2839c2985a2b32e4a185018caf9c2575802ab3f3dd00671704a88fede5404"
@@ -403,8 +408,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4271,
-      "sha256": "deda770f4d74a30999f5f3334b9beab4675b16263197cc18ff0df04375c3de9e"
+      "bytes": 4386,
+      "sha256": "ce6448ca1b9886c3dbe5be295940f7992c453b855cd46b1c552ecd68202f7b73"
     },
     {
       "path": "REVISION.md",
